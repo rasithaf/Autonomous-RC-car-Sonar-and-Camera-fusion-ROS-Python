@@ -16,7 +16,7 @@ Used logitech usb cam
 
 It follows a yellow line
 
-Our RC car has steering angle range between 55 and 145
+RC car has steering angle range between 55 and 145
 
 wheel position: 55 -> left most, 100 -> straight, 145 -> right most
 
